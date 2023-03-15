@@ -1,0 +1,9 @@
+D:\CodingTest\CodingTestSolution\CodingTestModel\bin\Debug\netcoreapp3.1\CodingTestModel.deps.json
+D:\CodingTest\CodingTestSolution\CodingTestModel\bin\Debug\netcoreapp3.1\CodingTestModel.dll
+D:\CodingTest\CodingTestSolution\CodingTestModel\bin\Debug\netcoreapp3.1\CodingTestModel.pdb
+D:\CodingTest\CodingTestSolution\CodingTestModel\obj\Debug\netcoreapp3.1\CodingTestModel.csprojAssemblyReference.cache
+D:\CodingTest\CodingTestSolution\CodingTestModel\obj\Debug\netcoreapp3.1\CodingTestModel.csproj.CoreCompileInputs.cache
+D:\CodingTest\CodingTestSolution\CodingTestModel\obj\Debug\netcoreapp3.1\CodingTestModel.AssemblyInfoInputs.cache
+D:\CodingTest\CodingTestSolution\CodingTestModel\obj\Debug\netcoreapp3.1\CodingTestModel.AssemblyInfo.cs
+D:\CodingTest\CodingTestSolution\CodingTestModel\obj\Debug\netcoreapp3.1\CodingTestModel.dll
+D:\CodingTest\CodingTestSolution\CodingTestModel\obj\Debug\netcoreapp3.1\CodingTestModel.pdb

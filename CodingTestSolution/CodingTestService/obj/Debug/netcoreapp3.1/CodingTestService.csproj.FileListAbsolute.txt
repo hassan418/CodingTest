@@ -1,0 +1,15 @@
+D:\CodingTest\CodingTestSolution\CodingTestService\bin\Debug\netcoreapp3.1\CodingTestService.deps.json
+D:\CodingTest\CodingTestSolution\CodingTestService\bin\Debug\netcoreapp3.1\CodingTestService.runtimeconfig.json
+D:\CodingTest\CodingTestSolution\CodingTestService\bin\Debug\netcoreapp3.1\CodingTestService.runtimeconfig.dev.json
+D:\CodingTest\CodingTestSolution\CodingTestService\bin\Debug\netcoreapp3.1\CodingTestService.dll
+D:\CodingTest\CodingTestSolution\CodingTestService\bin\Debug\netcoreapp3.1\CodingTestService.pdb
+D:\CodingTest\CodingTestSolution\CodingTestService\bin\Debug\netcoreapp3.1\CodingTestModel.dll
+D:\CodingTest\CodingTestSolution\CodingTestService\bin\Debug\netcoreapp3.1\CodingTestModel.pdb
+D:\CodingTest\CodingTestSolution\CodingTestService\obj\Debug\netcoreapp3.1\CodingTestService.csprojAssemblyReference.cache
+D:\CodingTest\CodingTestSolution\CodingTestService\obj\Debug\netcoreapp3.1\CodingTestService.csproj.CoreCompileInputs.cache
+D:\CodingTest\CodingTestSolution\CodingTestService\obj\Debug\netcoreapp3.1\CodingTestService.AssemblyInfoInputs.cache
+D:\CodingTest\CodingTestSolution\CodingTestService\obj\Debug\netcoreapp3.1\CodingTestService.AssemblyInfo.cs
+D:\CodingTest\CodingTestSolution\CodingTestService\obj\Debug\netcoreapp3.1\CodingTestService.csproj.CopyComplete
+D:\CodingTest\CodingTestSolution\CodingTestService\obj\Debug\netcoreapp3.1\CodingTestService.dll
+D:\CodingTest\CodingTestSolution\CodingTestService\obj\Debug\netcoreapp3.1\CodingTestService.pdb
+D:\CodingTest\CodingTestSolution\CodingTestService\obj\Debug\netcoreapp3.1\CodingTestService.genruntimeconfig.cache
